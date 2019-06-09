@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d30f1d16bf2916081dee76f001221328",
+    "revision": "48a5b24e6cc49d0dcbafbf067a4bca4b",
     "url": "/Anime/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Anime/static/js/2.db3fd057.chunk.js"
   },
   {
-    "revision": "fadad5988f779ca19a09",
-    "url": "/Anime/static/js/main.b5ddcf61.chunk.js"
+    "revision": "4b26771a7ddba2165bd6",
+    "url": "/Anime/static/js/main.58c641d4.chunk.js"
   },
   {
     "revision": "0bbb1f70cd17a7c03fdb",
